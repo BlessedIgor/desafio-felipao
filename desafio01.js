@@ -1,5 +1,5 @@
 let nomeHeroi = "Batman"
-let xpHeroi = 2456
+let xpHeroi = 8001
 
 let nivelHeroi
 if(xpHeroi < 1000) {
